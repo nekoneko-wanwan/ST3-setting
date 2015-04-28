@@ -1,0 +1,37 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Find++",
+		"Hayaku - tools for writing CSS faster",
+		"HTML5",
+		"Jade",
+		"Japanize",
+		"jQuery",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"sublime-multi-number-input",
+		"Sublimerge Pro",
+		"Tag",
+		"Theme - Centurion"
+	],
+	"repositories":
+	[
+		"https://github.com/kope88/InputSequence.git",
+		"https://github.com/airosB/sublime-multi-number-input"
+	]
+}

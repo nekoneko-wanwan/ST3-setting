@@ -1,0 +1,16 @@
+[
+    { "keys": ["tab"], "command": "commit_completion", "context":
+        [
+            { "key": "auto_complete_visible" },
+            { "key": "setting.auto_complete_commit_on_tab", "operand": false }
+        ]
+    },
+
+    { "keys": ["super+shift+0"], "command": "multi_number_input"},
+
+    { "keys": ["super+shift+up"], "command": "swap_line_up" },
+    { "keys": ["super+shift+down"], "command": "swap_line_down" },
+
+    { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
+]
+
