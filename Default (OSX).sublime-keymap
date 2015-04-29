@@ -1,4 +1,5 @@
 [
+    // tabで保管選択完了
     { "keys": ["tab"], "command": "commit_completion", "context":
         [
             { "key": "auto_complete_visible" },
@@ -6,10 +7,16 @@
         ]
     },
 
+    // alignmentの実行
+    { "keys": ["super+i"], "command": "alignment" },
+
+    // 連番の自動入力
     { "keys": ["super+shift+0"], "command": "multi_number_input"},
 
+    // 行の入れ替え
     { "keys": ["super+shift+up"], "command": "swap_line_up" },
     { "keys": ["super+shift+down"], "command": "swap_line_down" },
+
 
     { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
 ]
