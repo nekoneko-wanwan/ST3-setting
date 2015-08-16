@@ -14,8 +14,8 @@
     { "keys": ["super+shift+0"], "command": "multi_number_input"},
 
     // 行の入れ替え
-    { "keys": ["super+alt+up"], "command": "swap_line_up" },
-    { "keys": ["super+alt+down"], "command": "swap_line_down" },
+    { "keys": ["super+shift+up"], "command": "swap_line_up" },
+    { "keys": ["super+shift+down"], "command": "swap_line_down" },
 
     // comment out
     { "keys": ["super+/"], "command": "toggle_comment", "args": { "block": false } },
